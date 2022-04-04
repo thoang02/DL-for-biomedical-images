@@ -1,6 +1,6 @@
 # Project_DL-for-Biomedical-Images
 
-MSc Data Science Project 
+Dissertation Source Code
 
 Deep learning models for Biomedical Images- Fighting class imbalance and small dataset problem
 
